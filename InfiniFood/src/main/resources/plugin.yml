@@ -1,0 +1,12 @@
+name: Infinitefoods
+version: ${project.version}
+main: me.crazyrain.infinitefoods.Infinitefoods
+api-version: 1.17
+description: Make any food you want infinite!
+commands:
+  infini:
+    description: Use to make any food item infinite
+    usage: /<command>
+  infrl:
+    description: reloads the plugins config
+    usage: /<command>
