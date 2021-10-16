@@ -1,0 +1,8 @@
+# Amount of levels required to make an item infinite
+infinite-cost: 30
+
+#Text to display when anvil usage is denied
+#use '&' to change the colour of the message
+anvil-message:
+
+banned-foods:
